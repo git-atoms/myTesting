@@ -34,3 +34,13 @@ Wielu menedżerów wyższego szczebla kojarzy proces testowania z praktykantem, 
 
 <br>
 
+>Inżynier QA (jakości) to nie to samo co Tester.<br>
+Dlatego też występuje podział na:
+> * CASE (Computer-Aided Software Engineering) – inżynieria oprogramowania
+wspomagana komputerowo.<br>
+>
+> * CAST (Computer-Aided Software Testing) – testowanie oprogramowania
+wspomagane komputerowo; patrz także: automatyzacja testowania.
+
+<br>
+
